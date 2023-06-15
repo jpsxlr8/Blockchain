@@ -1,2 +1,2 @@
 # Blockchain
-All repositories related to bitcoin,blockchain and their implementation.
+All things related to bitcoin, blockchain, and their implementation.
